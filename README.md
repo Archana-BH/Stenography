@@ -1,1 +1,1 @@
-# Stenography Hiding message in image
+# Stenography:Hiding message in image
